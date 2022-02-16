@@ -1,5 +1,9 @@
-import React from 'react'
+import Layout from '../../components/Layout'
 
 export default function SingleEvent() {
-  return <div>SingleEvent page</div>
+  return (
+    <Layout>
+      <h2 className="text-violet-700">Single Event Page</h2>
+    </Layout>
+  )
 }

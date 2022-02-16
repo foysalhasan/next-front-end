@@ -1,3 +1,9 @@
+import Layout from '../../components/Layout'
+
 export default function MyEvents() {
-  return <div>Welcome to the events</div>
+  return (
+    <Layout title="All Events List">
+      <h1>All Events</h1>
+    </Layout>
+  )
 }

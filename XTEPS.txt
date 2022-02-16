@@ -1,0 +1,4 @@
+1. Creating Initial Page (Having Basic Knowledge)
+2. Making Layout (Header, Footer, Basic SEO)
+3. Creating Custom 404 Page
+4. Creating Banner Section only for Home Page
